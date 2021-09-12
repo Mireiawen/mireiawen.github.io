@@ -20,7 +20,7 @@ Macros and waymarks for some of the extreme and savage fights. These may or may 
 ┗━━━━━━━━━━┛
 TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 ```
-![Image of Hades macro ingame](Hades.png)
+![Image of Hades macro ingame](HadesEx.png)
 
 #### Waymarks
 ```json
