@@ -49,6 +49,11 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 ```
 ![Image of E9S macro ingame](E09S.png)
 
+#### Waymarks
+```json
+{"Name":"E09S Umbra","MapID":750,"A":{"X":90.0,"Y":0.0,"Z":93.0,"ID":0,"Active":true},"B":{"X":107.0,"Y":0.0,"Z":90.0,"ID":1,"Active":true},"C":{"X":110.0,"Y":0.0,"Z":107.0,"ID":2,"Active":true},"D":{"X":90.0,"Y":0.0,"Z":107.0,"ID":3,"Active":true},"One":{"X":93.0,"Y":0.0,"Z":90.0,"ID":4,"Active":true},"Two":{"X":110.263,"Y":0.0,"Z":93.591,"ID":5,"Active":true},"Three":{"X":107.0,"Y":0.0,"Z":110.0,"ID":6,"Active":true},"Four":{"X":93.0,"Y":0.0,"Z":110.0,"ID":7,"Active":true}}
+```
+
 ### E10S - Litany
 #### Macro
 ```
