@@ -118,7 +118,6 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 　H TH   　　   TH   　　　　TH  
 　T  　　 　　     　  　　TH  　   D
 　D D　 　　   D　 　　D　 　　
-　D D　 　　   D　 　　D　 　　
 ┏━━ Big Lions - Cross Lion Uptime Strat ━━┓
 　N:  →  → 　　 →  → 
 　S:   →  → 　　 →  → 
