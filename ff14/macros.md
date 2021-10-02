@@ -45,7 +45,7 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 　Holy = Stack　　  Ice = Move　None = Out
 ┗━   Adds tethers:　 South　 North  ━┛
 ```
-![Image of WoL macro ingame](WoLEx.png)
+![Image of WoL macro ingame](SoSEx.png)
 
 #### Waymarks
 ```json
