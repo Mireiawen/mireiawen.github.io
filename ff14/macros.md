@@ -2,7 +2,7 @@
 Macros and waymarks for some of the extreme and savage fights. These may or may not be specific for some specific strategy, but I've used these myself.
 
 ## Extremes
-### Hades
+### Hades / The Minstrel's Ballad: Hades's Elegy
 #### Macro
 ```
 ┏━━━ Spread ━━━┓┏━━ Stack groups ━━┓
@@ -25,6 +25,31 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 #### Waymarks
 ```json
 {"Name":"Hades Ex","MapID":693,"A":{"X":100.0,"Y":0.0,"Z":81.0,"ID":0,"Active":true},"B":{"X":119.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":119.0,"ID":2,"Active":true},"D":{"X":81.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":95.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":105.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+```
+
+### Warrior of Light / Seat of Sacrifice
+```
+┏━━ Spread ━━┓┏━ LB1 ━┓┏━  BLM  ━━┓
+　　　　　　　　　 North　　 + 1+5 
+　　  　　　　   East　　　 + 2+6
+　　   　　　  South　　 + 3+7
+　　  　　　　　　　　　　　+ 4+8
+　　　　　　　 　┗━━━━┛┗━━━━━━┛
+┏━━ Pairs / LB3 ━━┓┏━━━ LB2 ━━━┓
+　 　 　　West
+　　　　　 　　　　　　　   
+　 　 　　East
+　■ Rotate clockwise　　   
+┏━━━━━━   Imbued Saber   ━━━━━━┓
+　Stone = Spread　Fire = Stop　Glow = In
+　Holy = Stack　　  Ice = Move　None = Out
+┗━   Adds tethers:　 South　 North  ━┛
+```
+![Image of WoL macro ingame](WoLEx.png)
+
+#### Waymarks
+```json
+{"Name":"WoL / Seat of Sacrifice Ex","MapID":739,"A":{"X":82.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":82.0,"ID":1,"Active":true},"C":{"X":118.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":118.0,"ID":3,"Active":true},"One":{"X":90.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":110.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
 ```
 
 ## Savages
