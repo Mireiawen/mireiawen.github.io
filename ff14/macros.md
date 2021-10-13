@@ -27,6 +27,31 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 {"Name":"Hades Ex","MapID":693,"A":{"X":100.0,"Y":0.0,"Z":81.0,"ID":0,"Active":true},"B":{"X":119.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":119.0,"ID":2,"Active":true},"D":{"X":81.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":95.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":105.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
 ```
 
+### Varis yae Galvus / Memoria Misera
+```
+┏━━ Spread ━━┓┏━━━ Stacks ━━━━┓
+　　　  　　　  　　　West/North
+　　　　　　　   
+　　　
+　　　　　　　　East/South
+　　　  　　　  　　   
+┏━    Crosses    ━┓┏━━━  Shields  ━━━┓
+　 Red = Out　　   　　 Loaded = Spread
+　 Green = In　　  　　 Electric = Knockback
+　 Blue = Bait N/S 　　 Reinforced = Reflect
+┏━━━━ Gunshield Spark Spread ━━━━┓
+                                         
+                                         
+                                      
+                                   
+```
+![Image of Memoria Misera macro ingame](VarisEx.png)
+
+#### Waymarks
+```json
+{"Name":"Varis / Memoria Misera Ex","MapID":725,"A":{"X":24.0,"Y":-24.0,"Z":-694.0,"ID":0,"Active":true},"B":{"X":46.0,"Y":-24.0,"Z":-694.0,"ID":1,"Active":true},"C":{"X":46.0,"Y":-24.0,"Z":-672.0,"ID":2,"Active":true},"D":{"X":24.0,"Y":-24.0,"Z":-672.0,"ID":3,"Active":true},"One":{"X":35.0,"Y":-24.0,"Z":-698.0,"ID":4,"Active":true},"Two":{"X":50.0,"Y":-24.0,"Z":-683.0,"ID":5,"Active":true},"Three":{"X":35.0,"Y":-24.0,"Z":-668.0,"ID":6,"Active":true},"Four":{"X":20.0,"Y":-24.0,"Z":-683.0,"ID":7,"Active":true}}
+```
+
 ### Warrior of Light / Seat of Sacrifice
 ```
 ┏━━ Spread ━━┓┏━ LB1 ━┓┏━  BLM  ━━┓
