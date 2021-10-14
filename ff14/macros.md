@@ -132,7 +132,6 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 
 #### Links
 * [Litany Strategy Guide](https://saltedxiv.com/guides/edens-promise-litany-savage-raid-strategy-guide)
-* [Blue Uptime diagram](https://ff14.toolboxgaming.space/?id=957820644022161&preview=1#1)
 
 ### E11S - Anamorphosis
 #### Macro
@@ -161,6 +160,7 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 
 #### Links
 * [Anamorphosis strategy guide](https://saltedxiv.com/guides/edens-promise-anamorphosis-savage-raid-strategy-guide#phase-mechanics)
+* [Blue Uptime diagram](https://ff14.toolboxgaming.space/?id=957820644022161&preview=1#1)
 
 ### E12S - Eternity
 #### Macro
