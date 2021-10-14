@@ -130,6 +130,10 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 {"Name":"E10S Litany","MapID":748,"A":{"X":100.0,"Y":0.0,"Z":85.0,"ID":0,"Active":true},"B":{"X":115.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":115.0,"ID":2,"Active":true},"D":{"X":85.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":85.0,"Y":0.0,"Z":85.0,"ID":4,"Active":true},"Two":{"X":115.0,"Y":0.0,"Z":85.0,"ID":5,"Active":true},"Three":{"X":115.0,"Y":0.0,"Z":115.0,"ID":6,"Active":true},"Four":{"X":85.0,"Y":0.0,"Z":115.0,"ID":7,"Active":true}}
 ```
 
+#### Links
+* [Litany Strategy Guide](https://saltedxiv.com/guides/edens-promise-litany-savage-raid-strategy-guide)
+* [Blue Uptime diagram](https://ff14.toolboxgaming.space/?id=957820644022161&preview=1#1)
+
 ### E11S - Anamorphosis
 #### Macro
 ```
@@ -155,6 +159,9 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 {"Name":"E11S Anamorphosis","MapID":752,"A":{"X":100.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},"B":{"X":110.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":110.0,"ID":2,"Active":true},"D":{"X":90.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":93.0,"Y":0.0,"Z":93.0,"ID":4,"Active":true},"Two":{"X":107.0,"Y":0.0,"Z":93.0,"ID":5,"Active":true},"Three":{"X":107.0,"Y":0.0,"Z":107.0,"ID":6,"Active":true},"Four":{"X":93.0,"Y":0.0,"Z":107.0,"ID":7,"Active":true}}
 ```
 
+#### Links
+* [Anamorphosis strategy guide](https://saltedxiv.com/guides/edens-promise-anamorphosis-savage-raid-strategy-guide#phase-mechanics)
+
 ### E12S - Eternity
 #### Macro
 ```
@@ -179,3 +186,12 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 ```json
 {"Name":"E12S Eternity","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-87.0,"ID":0,"Active":true},"B":{"X":12.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-63.0,"ID":2,"Active":true},"D":{"X":-12.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":8.0,"Y":75.0,"Z":-83.0,"ID":4,"Active":true},"Two":{"X":8.0,"Y":75.0,"Z":-67.0,"ID":5,"Active":true},"Three":{"X":-8.0,"Y":75.0,"Z":-67.0,"ID":6,"Active":true},"Four":{"X":-8.0,"Y":75.0,"Z":-83.0,"ID":7,"Active":true}}
 ```
+
+#### Links
+* [Eternity strategy guide - part 1](https://saltedxiv.com/guides/edens-promise-eternity-savage-phase-two-raid-strategy-guide)
+* [Cross lions diagram](https://ff14.toolboxgaming.space/?id=392045290313361&preview=1#5)
+* [Safe lions diagram](https://ff14.toolboxgaming.space/?id=177120526487061&preview=1)
+* [Eternity strategy guide - part 2](https://saltedxiv.com/guides/edens-promise-eternity-savage-phase-two-raid-strategy-guide)
+* [Basic Relativity diagram](https://ff14.toolboxgaming.space/?id=176228861208061&preview=1)
+* [Intermediate Relativity diagram](https://ff14.toolboxgaming.space/?id=576226053208061&preview=1)
+* [E12S prog guide](https://docs.google.com/presentation/d/1wOFj_r8wLDrGeylARR2Hikt6a3-0v5x0a-xl8133gUk/edit)
