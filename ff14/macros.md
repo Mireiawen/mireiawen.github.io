@@ -1,6 +1,31 @@
 # FF14 - Macros and waymarks
 Macros and waymarks for some of the extreme and savage fights. These may or may not be specific for some specific strategy, but I've used these myself.
 
+* [Extremes](#extremes)
+  * [Hades / The Minstrel's Ballad: Hades's Elegy](#hades--the-minstrels-ballad-hadess-elegy)
+    * [Macro](#macro)
+    * [Waymarks](#waymarks)
+  * [Varis yae Galvus / Memoria Misera](#varis-yae-galvus--memoria-misera)
+    * [Waymarks](#waymarks-1)
+  * [Warrior of Light / Seat of Sacrifice](#warrior-of-light--seat-of-sacrifice)
+    * [Waymarks](#waymarks-2)
+* [Savages](#savages)
+  * [E9S - Umbra](#e9s---umbra)
+    * [Macro](#macro-1)
+    * [Waymarks](#waymarks-3)
+  * [E10S - Litany](#e10s---litany)
+    * [Macro](#macro-2)
+    * [Waymarks](#waymarks-4)
+    * [Links](#links)
+  * [E11S - Anamorphosis](#e11s---anamorphosis)
+    * [Macro](#macro-3)
+    * [Waymarks](#waymarks-5)
+    * [Links](#links-1)
+  * [E12S - Eternity](#e12s---eternity)
+    * [Macro](#macro-4)
+    * [Waymarks](#waymarks-6)
+    * [Links](#links-2)
+
 ## Extremes
 ### Hades / The Minstrel's Ballad: Hades's Elegy
 #### Macro
