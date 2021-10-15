@@ -6,23 +6,25 @@ Macros and waymarks for some of the extreme and savage fights. These may or may 
     * [Macro](#macro)
     * [Waymarks](#waymarks)
   * [Varis yae Galvus / Memoria Misera](#varis-yae-galvus--memoria-misera)
+    * [Macro](#macro-1)
     * [Waymarks](#waymarks-1)
   * [Warrior of Light / Seat of Sacrifice](#warrior-of-light--seat-of-sacrifice)
+    * [Macro](#macro-2)
     * [Waymarks](#waymarks-2)
 * [Savages](#savages)
   * [E9S - Umbra](#e9s---umbra)
-    * [Macro](#macro-1)
+    * [Macro](#macro-3)
     * [Waymarks](#waymarks-3)
   * [E10S - Litany](#e10s---litany)
-    * [Macro](#macro-2)
+    * [Macro](#macro-4)
     * [Waymarks](#waymarks-4)
     * [Links](#links)
   * [E11S - Anamorphosis](#e11s---anamorphosis)
-    * [Macro](#macro-3)
+    * [Macro](#macro-5)
     * [Waymarks](#waymarks-5)
     * [Links](#links-1)
   * [E12S - Eternity](#e12s---eternity)
-    * [Macro](#macro-4)
+    * [Macro](#macro-6)
     * [Waymarks](#waymarks-6)
     * [Links](#links-2)
 
@@ -53,6 +55,7 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 ```
 
 ### Varis yae Galvus / Memoria Misera
+#### Macro
 ```
 ┏━━ Spread ━━┓┏━━━ Stacks ━━━━┓
 　　　  　　　  　　　West/North
@@ -78,6 +81,7 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 ```
 
 ### Warrior of Light / Seat of Sacrifice
+#### Macro
 ```
 ┏━━ Spread ━━┓┏━ LB1 ━┓┏━  BLM  ━━┓
 　　　　　　　　　 North　　 + 1+5 
