@@ -15,18 +15,19 @@ Macros and waymarks for some of the extreme and savage fights. These may or may 
   * [E9S - Umbra](#e9s---umbra)
     * [Macro](#macro-3)
     * [Waymarks](#waymarks-3)
+    * [Links](#links)
   * [E10S - Litany](#e10s---litany)
     * [Macro](#macro-4)
     * [Waymarks](#waymarks-4)
-    * [Links](#links)
+    * [Links](#links-1)
   * [E11S - Anamorphosis](#e11s---anamorphosis)
     * [Macro](#macro-5)
     * [Waymarks](#waymarks-5)
-    * [Links](#links-1)
+    * [Links](#links-2)
   * [E12S - Eternity](#e12s---eternity)
     * [Macro](#macro-6)
     * [Waymarks](#waymarks-6)
-    * [Links](#links-2)
+    * [Links](#links-3)
 
 ## Extremes
 ### Hades / The Minstrel's Ballad: Hades's Elegy
@@ -132,6 +133,10 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 ```json
 {"Name":"E09S Umbra","MapID":750,"A":{"X":90.0,"Y":0.0,"Z":93.0,"ID":0,"Active":true},"B":{"X":107.0,"Y":0.0,"Z":90.0,"ID":1,"Active":true},"C":{"X":110.0,"Y":0.0,"Z":107.0,"ID":2,"Active":true},"D":{"X":90.0,"Y":0.0,"Z":107.0,"ID":3,"Active":true},"One":{"X":93.0,"Y":0.0,"Z":90.0,"ID":4,"Active":true},"Two":{"X":110.263,"Y":0.0,"Z":93.591,"ID":5,"Active":true},"Three":{"X":107.0,"Y":0.0,"Z":110.0,"ID":6,"Active":true},"Four":{"X":93.0,"Y":0.0,"Z":110.0,"ID":7,"Active":true}}
 ```
+
+#### Links
+* [Umbra Strategy Guide](https://saltedxiv.com/guides/edens-promise-umbra-savage-raid-strategy-guide)
+* ["Braindead" "Maximum Kev" safe spot strategy for summon clones](https://www.youtube.com/watch?v=m5x7sbANnHs&t=6s)
 
 ### E10S - Litany
 #### Macro
