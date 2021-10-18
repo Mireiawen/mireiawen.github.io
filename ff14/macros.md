@@ -27,6 +27,7 @@ Macros and waymarks for some of the extreme and savage fights. These may or may 
   * [E12S - Eternity](#e12s---eternity)
     * [Macro](#macro-6)
     * [Waymarks](#waymarks-6)
+    * [Titan position images](#titan-position-images)
     * [Links](#links-3)
 
 ## Extremes
@@ -220,6 +221,11 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 ```json
 {"Name":"E12S Eternity","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-87.0,"ID":0,"Active":true},"B":{"X":12.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-63.0,"ID":2,"Active":true},"D":{"X":-12.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":8.0,"Y":75.0,"Z":-83.0,"ID":4,"Active":true},"Two":{"X":8.0,"Y":75.0,"Z":-67.0,"ID":5,"Active":true},"Three":{"X":-8.0,"Y":75.0,"Z":-67.0,"ID":6,"Active":true},"Four":{"X":-8.0,"Y":75.0,"Z":-83.0,"ID":7,"Active":true}}
 ```
+
+#### Titan position images
+![Titan - DPS](E12S_titan_dps.png)
+![Titan - Heal](E12S_titan_healer.png)
+![Titan - Tank](E12S_titan_tank.png)
 
 #### Links
 * [Eternity strategy guide - part 1](https://saltedxiv.com/guides/edens-promise-eternity-savage-phase-two-raid-strategy-guide)
