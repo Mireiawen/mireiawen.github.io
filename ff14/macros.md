@@ -233,7 +233,7 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 * [Safe lions diagram](https://ff14.toolboxgaming.space/?id=177120526487061&preview=1)
 * [MTQcapture part 1 video guide](https://www.youtube.com/watch?v=8mdBH3WER_M)
 * [Eternity strategy guide - part 2](https://saltedxiv.com/guides/edens-promise-eternity-savage-phase-two-raid-strategy-guide)
-* [E12S Final Boss Guide](https://docs.google.com/presentation/d/1zeqKeKIyJnS7GGmB_iK731qQBo2Mc3SUo-jBfKAx1Yk/edit#slide=id.gb1293b7867_0_27)
+* [E12S Final Boss Guide](https://docs.google.com/presentation/d/1zeqKeKIyJnS7GGmB_iK731qQBo2Mc3SUo-jBfKAx1Yk/edit)
 * [Basic Relativity diagram](https://ff14.toolboxgaming.space/?id=176228861208061&preview=1)
 * [Intermediate Relativity diagram](https://ff14.toolboxgaming.space/?id=576226053208061&preview=1)
 * [MTQcapture part 2 video guide](https://www.youtube.com/watch?v=6WpBFqpeegY)
