@@ -165,15 +165,12 @@ Additional macro
 ┏━━━  Around Orbs  ━━━┓
 　,  North and go counterclockwise
 　,  North-East and go clockwise
-
 ┏━━━━ Side Orbs ━━━━┓
 　,  Leftmost orb
 　,  Rightmost orb
-
 ┏━━━ Shackled Apart ━━━┓
 　/ north
 　DPS south
-
 ┏━━━ Shackled Together ━━━┓
 　DPS adjust to their tethered pair
 ```
