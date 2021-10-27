@@ -118,8 +118,8 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 　　   　　　　　　　 
 　　  　　　　　　　　　
 　　　　　　　　　　　　    
-┗━━━━━━━━┛┗━━━━━━━━┛
- DPS clockwise        CHAINS / N/E - DPS S/W
+┗  DPS clockwise ┛┗━━━━━━━━┛
+Chains: / N/W - / S/E
 ┏━━ Platform ━┓┏━━ Tower ━━┓
 　　　　　　　　　　　　　
 　　　　　　　　　　　　
@@ -148,7 +148,7 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
   　　     　　　　       
   　　  　　　　　　　　　　  
 　　　　　　　　　　　　　　　  
-┗━━━━━━━━━━┛┗  Drop Bog Cardinal  ┛
+┗━━━━━━━━━━┛┗━━━━━━━━━━┛
 ┏  Voidgate 2 Part 1   ┓┏  Voidgate 2 Part 2   ┓
  　● 　  → ●　　　　　　 
  　↑　　　　　　　　　　　　　　　   ●
@@ -159,6 +159,25 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 ┗    Clone in corner   ┛
 ```
 ![Image of E10S macro ingame](E10S.png)
+
+Additional macro
+```
+┏━━━  Around Orbs  ━━━┓
+　,  North and go counterclockwise
+　,  North-East and go clockwise
+
+┏━━━━ Side Orbs ━━━━┓
+　,  Leftmost orb
+　,  Rightmost orb
+
+┏━━━ Shackled Apart ━━━┓
+　/ north
+　DPS south
+
+┏━━━ Shackled Together ━━━┓
+　DPS adjust to their tethered pair
+```
+![Image of E10S additional macro ingame](E10S_2.png)
 
 #### Waymarks
 ```json
