@@ -235,7 +235,8 @@ Additional macro
 
 #### Waymarks
 ```json
-{"Name":"E12S Eternity","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-87.0,"ID":0,"Active":true},"B":{"X":12.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-63.0,"ID":2,"Active":true},"D":{"X":-12.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":8.0,"Y":75.0,"Z":-83.0,"ID":4,"Active":true},"Two":{"X":8.0,"Y":75.0,"Z":-67.0,"ID":5,"Active":true},"Three":{"X":-8.0,"Y":75.0,"Z":-67.0,"ID":6,"Active":true},"Four":{"X":-8.0,"Y":75.0,"Z":-83.0,"ID":7,"Active":true}}
+{"Name":"E12S Eternity Cross Lions","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-87.0,"ID":0,"Active":true},"B":{"X":12.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-63.0,"ID":2,"Active":true},"D":{"X":-12.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":9.0,"Y":75.0,"Z":-82.0,"ID":4,"Active":true},"Two":{"X":9.0,"Y":75.0,"Z":-68.0,"ID":5,"Active":true},"Three":{"X":-9.0,"Y":75.0,"Z":-68.0,"ID":6,"Active":true},"Four":{"X":-9.0,"Y":75.0,"Z":-82.0,"ID":7,"Active":true}}
+{"Name":"E12S Eternity Phase 2","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-87.0,"ID":0,"Active":true},"B":{"X":12.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-63.0,"ID":2,"Active":true},"D":{"X":-12.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":8.0,"Y":75.0,"Z":-83.0,"ID":4,"Active":true},"Two":{"X":8.0,"Y":75.0,"Z":-67.0,"ID":5,"Active":true},"Three":{"X":-8.0,"Y":75.0,"Z":-67.0,"ID":6,"Active":true},"Four":{"X":-8.0,"Y":75.0,"Z":-83.0,"ID":7,"Active":true}}
 ```
 
 #### Titan position images
