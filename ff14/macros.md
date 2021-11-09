@@ -242,6 +242,7 @@ Additional macro
 
 #### Titan position images
 Thanks to [Aura Rose @Lich](https://eu.finalfantasyxiv.com/lodestone/character/14029611/) for these!
+
 ![Titan - DPS](E12S_titan_dps.png)
 ![Titan - Heal](E12S_titan_healer.png)
 ![Titan - Tank](E12S_titan_tank.png)
