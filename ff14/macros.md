@@ -28,6 +28,7 @@ Macros and waymarks for some of the extreme and savage fights. These may or may 
     * [Macro](#macro-6)
     * [Waymarks](#waymarks-6)
     * [Titan position images](#titan-position-images)
+    * [Intermediate / Advanced Relativity image](#intermediate--advanced-relativity-image)
     * [Links](#links-3)
 
 ## Extremes
@@ -240,9 +241,14 @@ Additional macro
 ```
 
 #### Titan position images
+Thanks to [Aura Rose @Lich](https://eu.finalfantasyxiv.com/lodestone/character/14029611/) for these!
 ![Titan - DPS](E12S_titan_dps.png)
 ![Titan - Heal](E12S_titan_healer.png)
 ![Titan - Tank](E12S_titan_tank.png)
+
+#### Intermediate / Advanced Relativity image
+I have no source of this, it has been in several Discord channels.
+![Intermediate and Advanced Relativity positions](E12S_AR.png)
 
 #### Links
 * [Eternity strategy guide - part 1](https://saltedxiv.com/guides/edens-promise-eternity-savage-phase-two-raid-strategy-guide)
