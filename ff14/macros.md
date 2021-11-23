@@ -226,7 +226,7 @@ Additional macro
 　 Left Out　　　　　　　　　 Right Out
 ┏━Titan ━┓┏━Titan ━┓┏━Titan ━┓
 　H TH   　　   TH   　　　　TH  
-　T  　　 　　     　  　　TH  　   D
+　T  　  D　        　  　　TH  　   D
 　D D　 　　   D　 　　D　 　　
 ┏━━ Big Lions - Cross Lion Uptime Strat ━━┓
 　N:  →  → 　　 →  → 
