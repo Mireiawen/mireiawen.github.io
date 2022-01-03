@@ -1,37 +1,63 @@
 # FF14 - Macros and waymarks
 Macros and waymarks for some of the extreme and savage fights. These may or may not be specific for some specific strategy, but I've used these myself.
 
-* [Extremes](#extremes)
-  * [Hades / The Minstrel's Ballad: Hades's Elegy](#hades--the-minstrels-ballad-hadess-elegy)
+* [Endwalker Extremes](#endwalker-extremes)
+  * [The Minstrel's Ballad: Zodiark's Fall](#the-minstrels-ballad-zodiarks-fall)
     * [Macro](#macro)
     * [Waymarks](#waymarks)
-  * [Varis yae Galvus / Memoria Misera](#varis-yae-galvus--memoria-misera)
+  * [The Minstrel's Ballad: Hydaelyn's Call](#the-minstrels-ballad-hydaelyns-call)
     * [Macro](#macro-1)
     * [Waymarks](#waymarks-1)
-  * [Warrior of Light / Seat of Sacrifice](#warrior-of-light--seat-of-sacrifice)
+* [Shadowbringers Extremes](#shadowbringers-extremes)
+  * [Hades / The Minstrel's Ballad: Hades's Elegy](#hades--the-minstrels-ballad-hadess-elegy)
     * [Macro](#macro-2)
     * [Waymarks](#waymarks-2)
-* [Savages](#savages)
-  * [E9S - Umbra](#e9s---umbra)
+  * [Varis yae Galvus / Memoria Misera](#varis-yae-galvus--memoria-misera)
     * [Macro](#macro-3)
     * [Waymarks](#waymarks-3)
-    * [Links](#links)
-  * [E10S - Litany](#e10s---litany)
+  * [Warrior of Light / Seat of Sacrifice](#warrior-of-light--seat-of-sacrifice)
     * [Macro](#macro-4)
     * [Waymarks](#waymarks-4)
-    * [Links](#links-1)
-  * [E11S - Anamorphosis](#e11s---anamorphosis)
+* [Shadowbringers Savages](#shadowbringers-savages)
+  * [E9S - Umbra](#e9s---umbra)
     * [Macro](#macro-5)
     * [Waymarks](#waymarks-5)
-    * [Links](#links-2)
-  * [E12S - Eternity](#e12s---eternity)
+    * [Links](#links)
+  * [E10S - Litany](#e10s---litany)
     * [Macro](#macro-6)
     * [Waymarks](#waymarks-6)
+    * [Links](#links-1)
+  * [E11S - Anamorphosis](#e11s---anamorphosis)
+    * [Macro](#macro-7)
+    * [Waymarks](#waymarks-7)
+    * [Links](#links-2)
+  * [E12S - Eternity](#e12s---eternity)
+    * [Macro](#macro-8)
+    * [Waymarks](#waymarks-8)
     * [Titan position images](#titan-position-images)
     * [Intermediate / Advanced Relativity image](#intermediate--advanced-relativity-image)
     * [Links](#links-3)
 
-## Extremes
+## Endwalker Extremes
+### The Minstrel's Ballad: Zodiark's Fall
+#### Macro
+No macro is used here.
+
+#### Waymarks
+```json
+{"Name":"Zodiark Ex","MapID":803,"A":{"X":85.0,"Y":0.0,"Z":85.0,"ID":0,"Active":true},"B":{"X":115.0,"Y":0.0,"Z":85.0,"ID":1,"Active":true},"C":{"X":115.0,"Y":0.0,"Z":115.0,"ID":2,"Active":true},"D":{"X":85.0,"Y":0.0,"Z":115.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":85.0,"ID":4,"Active":true},"Two":{"X":115.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":115.0,"ID":6,"Active":true},"Four":{"X":85.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
+```
+
+### The Minstrel's Ballad: Hydaelyn's Call
+#### Macro
+No macro is used here.
+
+#### Waymarks
+```json
+{"Name":"Hydaelyn Ex","MapID":791,"A":{"X":100.0,"Y":0.0,"Z":81.0,"ID":0,"Active":true},"B":{"X":119.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":119.0,"ID":2,"Active":true},"D":{"X":81.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":93.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":107.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+```
+
+## Shadowbringers Extremes
 ### Hades / The Minstrel's Ballad: Hades's Elegy
 #### Macro
 ```
@@ -109,7 +135,7 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 {"Name":"WoL / Seat of Sacrifice Ex","MapID":739,"A":{"X":82.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":82.0,"ID":1,"Active":true},"C":{"X":118.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":118.0,"ID":3,"Active":true},"One":{"X":90.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":110.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
 ```
 
-## Savages
+## Shadowbringers Savages
 ### E9S - Umbra
 #### Macro
 ```
