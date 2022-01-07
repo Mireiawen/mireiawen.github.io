@@ -8,32 +8,36 @@ Macros and waymarks for some of the extreme and savage fights. These may or may 
   * [The Minstrel's Ballad: Hydaelyn's Call](#the-minstrels-ballad-hydaelyns-call)
     * [Macro](#macro-1)
     * [Waymarks](#waymarks-1)
-* [Shadowbringers Extremes](#shadowbringers-extremes)
-  * [Hades / The Minstrel's Ballad: Hades's Elegy](#hades--the-minstrels-ballad-hadess-elegy)
+* [Endwalker Savages](#endwalker-savages)
+  * [Pandæmonium 1 Savage: The First Circle](#pandæmonium-1-savage-the-first-circle)
     * [Macro](#macro-2)
     * [Waymarks](#waymarks-2)
-  * [Varis yae Galvus / Memoria Misera](#varis-yae-galvus--memoria-misera)
+* [Shadowbringers Extremes](#shadowbringers-extremes)
+  * [Hades / The Minstrel's Ballad: Hades's Elegy](#hades--the-minstrels-ballad-hadess-elegy)
     * [Macro](#macro-3)
     * [Waymarks](#waymarks-3)
-  * [Warrior of Light / Seat of Sacrifice](#warrior-of-light--seat-of-sacrifice)
+  * [Varis yae Galvus / Memoria Misera](#varis-yae-galvus--memoria-misera)
     * [Macro](#macro-4)
     * [Waymarks](#waymarks-4)
-* [Shadowbringers Savages](#shadowbringers-savages)
-  * [E9S - Umbra](#e9s---umbra)
+  * [Warrior of Light / Seat of Sacrifice](#warrior-of-light--seat-of-sacrifice)
     * [Macro](#macro-5)
     * [Waymarks](#waymarks-5)
-    * [Links](#links)
-  * [E10S - Litany](#e10s---litany)
+* [Shadowbringers Savages](#shadowbringers-savages)
+  * [E9S - Umbra](#e9s---umbra)
     * [Macro](#macro-6)
     * [Waymarks](#waymarks-6)
-    * [Links](#links-1)
-  * [E11S - Anamorphosis](#e11s---anamorphosis)
+    * [Links](#links)
+  * [E10S - Litany](#e10s---litany)
     * [Macro](#macro-7)
     * [Waymarks](#waymarks-7)
-    * [Links](#links-2)
-  * [E12S - Eternity](#e12s---eternity)
+    * [Links](#links-1)
+  * [E11S - Anamorphosis](#e11s---anamorphosis)
     * [Macro](#macro-8)
     * [Waymarks](#waymarks-8)
+    * [Links](#links-2)
+  * [E12S - Eternity](#e12s---eternity)
+    * [Macro](#macro-9)
+    * [Waymarks](#waymarks-9)
     * [Titan position images](#titan-position-images)
     * [Intermediate / Advanced Relativity image](#intermediate--advanced-relativity-image)
     * [Links](#links-3)
@@ -55,6 +59,33 @@ No macro is used here.
 #### Waymarks
 ```json
 {"Name":"Hydaelyn Ex","MapID":791,"A":{"X":100.0,"Y":0.0,"Z":81.0,"ID":0,"Active":true},"B":{"X":119.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":119.0,"ID":2,"Active":true},"D":{"X":81.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":93.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":107.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+```
+
+## Endwalker Savages
+### Pandæmonium 1 Savage: The First Circle
+#### Macro
+```
+┏ Intemperance ┓┏━ Fourfold shackle ━┓
+　　　　　　Time　Red
+　　    　　　　　 3s　　
+　　　　　　　 8s　　
+　　　　　　　　　　　　　13s  　
+┏ Aether Shackles ┓ 　　18s  　
+　　　　　
+　　　　　　　　　┏ Shackle of time ┓
+　　   　　　　Drop on the blue
+　　　　
+　　　　　　┏━━━ Areas  ━━━┓
+　　　　　　　　　　　Anchor 　 = Side
+┏ Tankbusters ┓　　 Chackram = In
+　Grace = Stack　　　 Mace　　  = Out
+　Purga = Flare
+```
+![Image of P1S macro](P01S.png)
+
+#### Waymarks
+```json
+{"Name":"P1S The First Circle","MapID":809,"A":{"X":118.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":118.0,"ID":1,"Active":true},"C":{"X":82.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":82.0,"ID":3,"Active":true},"One":{"X":94.5,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":105.5,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":94.5,"ID":6,"Active":true},"Four":{"X":100.0,"Y":0.0,"Z":105.5,"ID":7,"Active":true}}
 ```
 
 ## Shadowbringers Extremes
