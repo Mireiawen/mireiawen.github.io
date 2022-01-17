@@ -12,32 +12,35 @@ Macros and waymarks for some of the extreme and savage fights. These may or may 
   * [Pandæmonium 1 Savage: The First Circle](#pandæmonium-1-savage-the-first-circle)
     * [Macro](#macro-2)
     * [Waymarks](#waymarks-2)
-* [Shadowbringers Extremes](#shadowbringers-extremes)
-  * [Hades / The Minstrel's Ballad: Hades's Elegy](#hades--the-minstrels-ballad-hadess-elegy)
+  * [Pandæmonium 2 Savage: The Second Circle](#pandæmonium-2-savage-the-second-circle)
     * [Macro](#macro-3)
     * [Waymarks](#waymarks-3)
-  * [Varis yae Galvus / Memoria Misera](#varis-yae-galvus--memoria-misera)
+* [Shadowbringers Extremes](#shadowbringers-extremes)
+  * [Hades / The Minstrel's Ballad: Hades's Elegy](#hades--the-minstrels-ballad-hadess-elegy)
     * [Macro](#macro-4)
     * [Waymarks](#waymarks-4)
-  * [Warrior of Light / Seat of Sacrifice](#warrior-of-light--seat-of-sacrifice)
+  * [Varis yae Galvus / Memoria Misera](#varis-yae-galvus--memoria-misera)
     * [Macro](#macro-5)
     * [Waymarks](#waymarks-5)
-* [Shadowbringers Savages](#shadowbringers-savages)
-  * [E9S - Umbra](#e9s---umbra)
+  * [Warrior of Light / Seat of Sacrifice](#warrior-of-light--seat-of-sacrifice)
     * [Macro](#macro-6)
     * [Waymarks](#waymarks-6)
-    * [Links](#links)
-  * [E10S - Litany](#e10s---litany)
+* [Shadowbringers Savages](#shadowbringers-savages)
+  * [E9S - Umbra](#e9s---umbra)
     * [Macro](#macro-7)
     * [Waymarks](#waymarks-7)
-    * [Links](#links-1)
-  * [E11S - Anamorphosis](#e11s---anamorphosis)
+    * [Links](#links)
+  * [E10S - Litany](#e10s---litany)
     * [Macro](#macro-8)
     * [Waymarks](#waymarks-8)
-    * [Links](#links-2)
-  * [E12S - Eternity](#e12s---eternity)
+    * [Links](#links-1)
+  * [E11S - Anamorphosis](#e11s---anamorphosis)
     * [Macro](#macro-9)
     * [Waymarks](#waymarks-9)
+    * [Links](#links-2)
+  * [E12S - Eternity](#e12s---eternity)
+    * [Macro](#macro-10)
+    * [Waymarks](#waymarks-10)
     * [Titan position images](#titan-position-images)
     * [Intermediate / Advanced Relativity image](#intermediate--advanced-relativity-image)
     * [Links](#links-3)
@@ -87,6 +90,21 @@ No macro is used here.
 ```json
 {"Name":"P1S The First Circle","MapID":809,"A":{"X":110.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},"B":{"X":110.0,"Y":0.0,"Z":110.0,"ID":1,"Active":true},"C":{"X":90.0,"Y":0.0,"Z":110.0,"ID":2,"Active":true},"D":{"X":90.0,"Y":0.0,"Z":90.0,"ID":3,"Active":true},"One":{"X":95.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":105.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":95.0,"ID":6,"Active":true},"Four":{"X":100.0,"Y":0.0,"Z":105.0,"ID":7,"Active":true}}
 ```
+
+### Pandæmonium 2 Savage: The Second Circle
+#### Macro
+None yet.
+
+#### Waymarks
+```json
+{"Name":"P2S The Second Circle","MapID":811,"A":{"X":90.5,"Y":0.5,"Z":90.5,"ID":0,"Active":true},"B":{"X":109.5,"Y":0.5,"Z":90.5,"ID":1,"Active":true},"C":{"X":109.5,"Y":0.5,"Z":109.5,"ID":2,"Active":true},"D":{"X":90.5,"Y":0.5,"Z":109.5,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":90.5,"ID":4,"Active":true},"Two":{"X":109.5,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":109.5,"ID":6,"Active":true},"Four":{"X":90.5,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
+```
+
+Knockback training
+```json
+{"Name":"P2S Knockbacks","MapID":811,"A":{"X":109.5,"Y":0.0,"Z":86.5,"ID":0,"Active":true},"B":{"X":113.5,"Y":0.5,"Z":109.5,"ID":1,"Active":true},"C":{"X":90.5,"Y":0.5,"Z":113.5,"ID":2,"Active":true},"D":{"X":86.5,"Y":0.5,"Z":90.5,"ID":3,"Active":true},"One":{"X":109.5,"Y":0.5,"Z":113.5,"ID":4,"Active":true},"Two":{"X":86.5,"Y":0.5,"Z":109.5,"ID":5,"Active":true},"Three":{"X":90.5,"Y":0.5,"Z":86.5,"ID":6,"Active":true},"Four":{"X":113.5,"Y":0.5,"Z":90.5,"ID":7,"Active":true}}
+```
+
 
 ## Shadowbringers Extremes
 ### Hades / The Minstrel's Ballad: Hades's Elegy
