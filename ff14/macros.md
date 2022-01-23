@@ -15,32 +15,35 @@ Macros and waymarks for some of the extreme and savage fights. These may or may 
   * [Pandæmonium 2 Savage: The Second Circle](#pandæmonium-2-savage-the-second-circle)
     * [Macro](#macro-3)
     * [Waymarks](#waymarks-3)
-* [Shadowbringers Extremes](#shadowbringers-extremes)
-  * [Hades / The Minstrel's Ballad: Hades's Elegy](#hades--the-minstrels-ballad-hadess-elegy)
+  * [Pandæmonium 3 Savage: The Third Circle](#pandæmonium-3-savage-the-third-circle)
     * [Macro](#macro-4)
     * [Waymarks](#waymarks-4)
-  * [Varis yae Galvus / Memoria Misera](#varis-yae-galvus--memoria-misera)
+* [Shadowbringers Extremes](#shadowbringers-extremes)
+  * [Hades / The Minstrel's Ballad: Hades's Elegy](#hades--the-minstrels-ballad-hadess-elegy)
     * [Macro](#macro-5)
     * [Waymarks](#waymarks-5)
-  * [Warrior of Light / Seat of Sacrifice](#warrior-of-light--seat-of-sacrifice)
+  * [Varis yae Galvus / Memoria Misera](#varis-yae-galvus--memoria-misera)
     * [Macro](#macro-6)
     * [Waymarks](#waymarks-6)
-* [Shadowbringers Savages](#shadowbringers-savages)
-  * [E9S - Umbra](#e9s---umbra)
+  * [Warrior of Light / Seat of Sacrifice](#warrior-of-light--seat-of-sacrifice)
     * [Macro](#macro-7)
     * [Waymarks](#waymarks-7)
-    * [Links](#links)
-  * [E10S - Litany](#e10s---litany)
+* [Shadowbringers Savages](#shadowbringers-savages)
+  * [E9S - Umbra](#e9s---umbra)
     * [Macro](#macro-8)
     * [Waymarks](#waymarks-8)
-    * [Links](#links-1)
-  * [E11S - Anamorphosis](#e11s---anamorphosis)
+    * [Links](#links)
+  * [E10S - Litany](#e10s---litany)
     * [Macro](#macro-9)
     * [Waymarks](#waymarks-9)
-    * [Links](#links-2)
-  * [E12S - Eternity](#e12s---eternity)
+    * [Links](#links-1)
+  * [E11S - Anamorphosis](#e11s---anamorphosis)
     * [Macro](#macro-10)
     * [Waymarks](#waymarks-10)
+    * [Links](#links-2)
+  * [E12S - Eternity](#e12s---eternity)
+    * [Macro](#macro-11)
+    * [Waymarks](#waymarks-11)
     * [Titan position images](#titan-position-images)
     * [Intermediate / Advanced Relativity image](#intermediate--advanced-relativity-image)
     * [Links](#links-3)
@@ -93,7 +96,19 @@ No macro is used here.
 
 ### Pandæmonium 2 Savage: The Second Circle
 #### Macro
-None yet.
+```
+┏━━ Cataract ━━┓
+　Spoken = Front
+　Winged = Back
+┏━━ Kampeos Harma ━━┓
+　1&3 Blue = Opposite Corner
+　2&4 Blue = Boss Corner
+　Purple = Number markers
+┏━ Knockbacks ━┓
+　DPS right/corner
+　Tank left/middle
+```
+![Image of P2S macro](P02S.png)
 
 #### Waymarks
 ```json
@@ -105,6 +120,29 @@ Knockback training
 {"Name":"P2S Knockbacks","MapID":811,"A":{"X":109.5,"Y":0.0,"Z":86.5,"ID":0,"Active":true},"B":{"X":113.5,"Y":0.5,"Z":109.5,"ID":1,"Active":true},"C":{"X":90.5,"Y":0.5,"Z":113.5,"ID":2,"Active":true},"D":{"X":86.5,"Y":0.5,"Z":90.5,"ID":3,"Active":true},"One":{"X":109.5,"Y":0.5,"Z":113.5,"ID":4,"Active":true},"Two":{"X":86.5,"Y":0.5,"Z":109.5,"ID":5,"Active":true},"Three":{"X":90.5,"Y":0.5,"Z":86.5,"ID":6,"Active":true},"Four":{"X":113.5,"Y":0.5,"Z":90.5,"ID":7,"Active":true}}
 ```
 
+### Pandæmonium 3 Savage: The Third Circle
+#### Macro
+```
+┏━━ Dark fire  ━━┓┏━━━━  Dive  ━━━━┓
+　 　 　　Middle : Fire pairs
+　　　　　  　　　　　　　　　
+　 　 　　Sides :  ↓ 
+┏━━ Adds  ━━┓┏━━━━ Fountain ━━━━┓
+　 N/W adds　　 N/W　 S/E
+　 S/E adds　　  → Puddle between Healer
+　→ Start E/W　　　　  and Boss, →→
+　→ Rotate CW　　  → Cross opposite side
+```
+![Image of P3S macro](P03S.png)
+
+#### Waymarks
+```json
+{"Name":"P3S The Third Circle","MapID":807,"A":{"X":100.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":91.0,"ID":4,"Active":true},"Two":{"X":109.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":109.0,"ID":6,"Active":true},"Four":{"X":91.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
+```
+
+#### 
+Big firebirds tethers
+![Big birds tethers](P03S_birds_tethers.png)
 
 ## Shadowbringers Extremes
 ### Hades / The Minstrel's Ballad: Hades's Elegy
