@@ -18,6 +18,7 @@ Macros and waymarks for some of the extreme and savage fights. These may or may 
   * [Pandæmonium 3 Savage: The Third Circle](#pandæmonium-3-savage-the-third-circle)
     * [Macro](#macro-4)
     * [Waymarks](#waymarks-4)
+    * [Big firebirds tethers](#big-firebirds-tethers)
 * [Shadowbringers Extremes](#shadowbringers-extremes)
   * [Hades / The Minstrel's Ballad: Hades's Elegy](#hades--the-minstrels-ballad-hadess-elegy)
     * [Macro](#macro-5)
@@ -140,8 +141,7 @@ Knockback training
 {"Name":"P3S The Third Circle","MapID":807,"A":{"X":100.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":91.0,"ID":4,"Active":true},"Two":{"X":109.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":109.0,"ID":6,"Active":true},"Four":{"X":91.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
 ```
 
-#### 
-Big firebirds tethers
+#### Big firebirds tethers
 ![Big birds tethers](P03S_birds_tethers.png)
 
 ## Shadowbringers Extremes
