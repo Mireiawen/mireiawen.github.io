@@ -123,6 +123,7 @@ Knockback training
 
 ### Pandæmonium 3 Savage: The Third Circle
 #### Macro
+Using the Elmo strategy
 ```
 ┏━━ Dark fire  ━━┓┏━━━━  Dive  ━━━━┓
 　 　 　　Middle : Fire pairs
@@ -133,6 +134,12 @@ Knockback training
 　 S/E adds　　  → Puddle between Healer
 　→ Start E/W　　　　  and Boss, →→
 　→ Rotate CW　　  → Cross opposite side
+┏━ Firestorm ━┓┏━ Pizza slices ━┓
+　　　　　　　　/ north
+　　　　　　　　　/ south
+　　　　　　　　　┏━ Knockback ━┓
+　　　  　　　　　　/  left
+　　　　　　　　　  / right
 ```
 ![Image of P3S macro](P03S.png)
 
@@ -142,7 +149,7 @@ Knockback training
 ```
 
 #### Big firebirds tethers
-![Big birds tethers](P03S_birds_tethers.png)
+[Toolbox diagram](https://ff14.toolboxgaming.space/?id=464441775941461&preview=1)
 
 ## Shadowbringers Extremes
 ### Hades / The Minstrel's Ballad: Hades's Elegy
