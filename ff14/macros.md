@@ -83,16 +83,16 @@ No macro is used here.
 　　   　　　　Drop on the blue
 　　　　
 　　　　　　┏━━━ Areas  ━━━┓
-　　　　　　　　　　　Anchor 　 = Side
-┏ Tankbusters ┓　　 Chackram = In
-　Grace = Stack　　　 Mace　　  = Out
+　　Color swap　　　　 Anchor 　 = Side
+┏ Tankbusters ┓　　　 Chackram = In
+　Grace = Stack　　　　 Mace　　  = Out
 　Purga = Flare
 ```
 ![Image of P1S macro](P01S.png)
 
 #### Waymarks
 ```json
-{"Name":"P1S The First Circle","MapID":809,"A":{"X":110.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},"B":{"X":110.0,"Y":0.0,"Z":110.0,"ID":1,"Active":true},"C":{"X":90.0,"Y":0.0,"Z":110.0,"ID":2,"Active":true},"D":{"X":90.0,"Y":0.0,"Z":90.0,"ID":3,"Active":true},"One":{"X":95.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":105.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":95.0,"ID":6,"Active":true},"Four":{"X":100.0,"Y":0.0,"Z":105.0,"ID":7,"Active":true}}
+{"Name":"P1S The First Circle Color Swap","MapID":809,"A":{"X":110.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},"B":{"X":110.0,"Y":0.0,"Z":110.0,"ID":1,"Active":true},"C":{"X":90.0,"Y":0.0,"Z":110.0,"ID":2,"Active":true},"D":{"X":90.0,"Y":0.0,"Z":90.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":96.0,"ID":4,"Active":true},"Two":{"X":104.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":104.0,"ID":6,"Active":true},"Four":{"X":96.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
 ```
 
 ### Pandæmonium 2 Savage: The Second Circle
@@ -135,11 +135,11 @@ Using the Elmo strategy
 　→ Start E/W　　　　  and Boss, →→
 　→ Rotate CW　　  → Cross opposite side
 ┏━ Firestorm ━┓┏━ Pizza slices ━┓
-　　　　　　　　/ north
-　　　　　　　　　/ south
-　　　　　　　　　┏━ Knockback ━┓
-　　　  　　　　　　/  left
-　　　　　　　　　  / right
+　　　　　　　　+ north
+　　　　　　　　　+ south
+　　　　　　　　　┏━━ Knockback ━━┓
+　　　  　　　　　　+  left　  Facing
+　　　　　　　　　  + right　tornado
 ```
 ![Image of P3S macro](P03S.png)
 
