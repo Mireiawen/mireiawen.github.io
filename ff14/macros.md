@@ -116,11 +116,6 @@ No macro is used here.
 {"Name":"P2S The Second Circle","MapID":811,"A":{"X":90.5,"Y":0.5,"Z":90.5,"ID":0,"Active":true},"B":{"X":109.5,"Y":0.5,"Z":90.5,"ID":1,"Active":true},"C":{"X":109.5,"Y":0.5,"Z":109.5,"ID":2,"Active":true},"D":{"X":90.5,"Y":0.5,"Z":109.5,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":90.5,"ID":4,"Active":true},"Two":{"X":109.5,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":109.5,"ID":6,"Active":true},"Four":{"X":90.5,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
 ```
 
-Knockback training
-```json
-{"Name":"P2S Knockbacks","MapID":811,"A":{"X":109.5,"Y":0.0,"Z":86.5,"ID":0,"Active":true},"B":{"X":113.5,"Y":0.5,"Z":109.5,"ID":1,"Active":true},"C":{"X":90.5,"Y":0.5,"Z":113.5,"ID":2,"Active":true},"D":{"X":86.5,"Y":0.5,"Z":90.5,"ID":3,"Active":true},"One":{"X":109.5,"Y":0.5,"Z":113.5,"ID":4,"Active":true},"Two":{"X":86.5,"Y":0.5,"Z":109.5,"ID":5,"Active":true},"Three":{"X":90.5,"Y":0.5,"Z":86.5,"ID":6,"Active":true},"Four":{"X":113.5,"Y":0.5,"Z":90.5,"ID":7,"Active":true}}
-```
-
 ### Pandæmonium 3 Savage: The Third Circle
 #### Macro
 Using the Elmo strategy
@@ -135,7 +130,7 @@ Using the Elmo strategy
 　→ Start E/W　　　　  and Boss, →→
 　→ Rotate CW　　  → Cross opposite side
 ┏━ Firestorm ━┓┏━ Pizza slices ━┓
-　　　　　　　　+ north
+　　　　　　　　+ north
 　　　　　　　　　+ south
 　　　　　　　　　┏━━ Knockback ━━┓
 　　　  　　　　　　+  left　  Facing
