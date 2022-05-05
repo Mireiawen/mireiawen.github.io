@@ -140,9 +140,12 @@ Using the Elmo strategy
 
 #### Waymarks
 ```json
-{"Name":"P3S The Third Circle","MapID":807,"A":{"X":100.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":91.0,"ID":4,"Active":true},"Two":{"X":109.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":109.0,"ID":6,"Active":true},"Four":{"X":91.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
+{"Name":"P3S The Third Circle","MapID":807,"A":{"X":100.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":94.0,"ID":4,"Active":true},"Two":{"X":106.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":106.0,"ID":6,"Active":true},"Four":{"X":94.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
 ```
 
+```json
+{"Name":"P3S The Third Circle","MapID":807,"A":{"X":100.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":91.0,"ID":4,"Active":true},"Two":{"X":109.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":109.0,"ID":6,"Active":true},"Four":{"X":91.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
+```
 #### Big firebirds tethers
 [Toolbox diagram](https://ff14.toolboxgaming.space/?id=464441775941461&preview=1)
 
