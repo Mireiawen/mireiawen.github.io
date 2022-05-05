@@ -20,34 +20,62 @@ Macros and waymarks for some of the extreme and savage fights. These may or may 
     * [Waymarks](#waymarks-4)
     * [Big firebirds tethers](#big-firebirds-tethers)
 * [Shadowbringers Extremes](#shadowbringers-extremes)
-  * [Hades / The Minstrel's Ballad: Hades's Elegy](#hades--the-minstrels-ballad-hadess-elegy)
-    * [Macro](#macro-5)
+  * [The Dancing Plague / Titania](#the-dancing-plague--titania)
     * [Waymarks](#waymarks-5)
-  * [Varis yae Galvus / Memoria Misera](#varis-yae-galvus--memoria-misera)
-    * [Macro](#macro-6)
+  * [The Minstrel's Ballad: Hades's Elegy / Hades](#the-minstrels-ballad-hadess-elegy--hades)
+    * [Macro](#macro-5)
     * [Waymarks](#waymarks-6)
-  * [Warrior of Light / Seat of Sacrifice](#warrior-of-light--seat-of-sacrifice)
-    * [Macro](#macro-7)
+  * [Memoria Misera / Varis yae Galvus](#memoria-misera--varis-yae-galvus)
+    * [Macro](#macro-6)
     * [Waymarks](#waymarks-7)
-* [Shadowbringers Savages](#shadowbringers-savages)
-  * [E9S - Umbra](#e9s---umbra)
-    * [Macro](#macro-8)
+  * [The Seat of Sacrifice / Warrior of Light](#the-seat-of-sacrifice--warrior-of-light)
+    * [Macro](#macro-7)
     * [Waymarks](#waymarks-8)
+  * [Castrum Marinum](#castrum-marinum)
+    * [Waymarks](#waymarks-9)
+  * [The Cloud Deck](#the-cloud-deck)
+    * [Waymarks](#waymarks-10)
+* [Shadowbringers Savages](#shadowbringers-savages)
+  * [E09S - Umbra](#e09s---umbra)
+    * [Macro](#macro-8)
+    * [Waymarks](#waymarks-11)
     * [Links](#links)
   * [E10S - Litany](#e10s---litany)
     * [Macro](#macro-9)
-    * [Waymarks](#waymarks-9)
+    * [Waymarks](#waymarks-12)
     * [Links](#links-1)
   * [E11S - Anamorphosis](#e11s---anamorphosis)
     * [Macro](#macro-10)
-    * [Waymarks](#waymarks-10)
+    * [Waymarks](#waymarks-13)
     * [Links](#links-2)
   * [E12S - Eternity](#e12s---eternity)
     * [Macro](#macro-11)
-    * [Waymarks](#waymarks-11)
+    * [Waymarks](#waymarks-14)
+      * [Cross lions](#cross-lions)
+      * [Cross lions #2](#cross-lions-2)
+      * [Part 2](#part-2)
     * [Titan position images](#titan-position-images)
     * [Intermediate / Advanced Relativity image](#intermediate--advanced-relativity-image)
     * [Links](#links-3)
+* [Stormblood Extremes](#stormblood-extremes)
+  * [The Minstrel's Ballad: Tsukuyomi's Pain / Tsukuyomi Ex](#the-minstrels-ballad-tsukuyomis-pain--tsukuyomi-ex)
+    * [Waymarks](#waymarks-15)
+  * [Hells' Kier / Suzaku Ex](#hells-kier--suzaku-ex)
+    * [Waymarks](#waymarks-16)
+* [Stormblood Savages](#stormblood-savages)
+  * [O12S - Alphascape V4](#o12s---alphascape-v4)
+    * [Waymarks](#waymarks-17)
+* [Heavensward Savages](#heavensward-savages)
+  * [A12S - The Soul of the Creator](#a12s---the-soul-of-the-creator)
+    * [Waymarks](#waymarks-18)
+* [A Realm Reborn Extremes](#a-realm-reborn-extremes)
+  * [The Navel / Titan](#the-navel--titan)
+    * [Waymarks](#waymarks-19)
+  * [The Akh Afah Amphitheatre / Shiva](#the-akh-afah-amphitheatre--shiva)
+    * [Waymarks](#waymarks-20)
+* [Unreals](#unreals)
+  * [The Akh Afah Amphitheatre / Shiva Unreal](#the-akh-afah-amphitheatre--shiva-unreal)
+    * [Waymarks](#waymarks-21)
 
 ## Endwalker Extremes
 ### The Minstrel's Ballad: Zodiark's Fall
@@ -150,7 +178,13 @@ Using the Elmo strategy
 [Toolbox diagram](https://ff14.toolboxgaming.space/?id=464441775941461&preview=1)
 
 ## Shadowbringers Extremes
-### Hades / The Minstrel's Ballad: Hades's Elegy
+### The Dancing Plague / Titania
+#### Waymarks
+```json
+{"Name":"The Dancing Plague / Titania Ex","MapID":658,"A":{"X":100.0,"Y":0.0,"Z":95.0,"ID":0,"Active":true},"B":{"X":95.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":105.0,"ID":2,"Active":true},"D":{"X":105.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":81.0,"Y":0.0,"Z":81.0,"ID":4,"Active":true},"Two":{"X":81.0,"Y":0.0,"Z":119.0,"ID":5,"Active":true},"Three":{"X":119.0,"Y":0.0,"Z":119.0,"ID":6,"Active":true},"Four":{"X":119.0,"Y":0.0,"Z":81.0,"ID":7,"Active":true}}
+```
+
+### The Minstrel's Ballad: Hades's Elegy / Hades
 #### Macro
 ```
 ┏━━━ Spread ━━━┓┏━━ Stack groups ━━┓
@@ -172,10 +206,10 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 
 #### Waymarks
 ```json
-{"Name":"Hades Ex","MapID":693,"A":{"X":100.0,"Y":0.0,"Z":81.0,"ID":0,"Active":true},"B":{"X":119.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":119.0,"ID":2,"Active":true},"D":{"X":81.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":95.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":105.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+{"Name":"The Minstrel's Ballad: Hades's Elegy / Hades Ex","MapID":693,"A":{"X":100.0,"Y":0.0,"Z":81.0,"ID":0,"Active":true},"B":{"X":119.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":119.0,"ID":2,"Active":true},"D":{"X":81.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":95.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":105.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
 ```
 
-### Varis yae Galvus / Memoria Misera
+### Memoria Misera / Varis yae Galvus
 #### Macro
 ```
 ┏━━ Spread ━━┓┏━━━ Stacks ━━━━┓
@@ -198,10 +232,10 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 
 #### Waymarks
 ```json
-{"Name":"Varis / Memoria Misera Ex","MapID":725,"A":{"X":24.0,"Y":-24.0,"Z":-694.0,"ID":0,"Active":true},"B":{"X":46.0,"Y":-24.0,"Z":-694.0,"ID":1,"Active":true},"C":{"X":46.0,"Y":-24.0,"Z":-672.0,"ID":2,"Active":true},"D":{"X":24.0,"Y":-24.0,"Z":-672.0,"ID":3,"Active":true},"One":{"X":35.0,"Y":-24.0,"Z":-698.0,"ID":4,"Active":true},"Two":{"X":50.0,"Y":-24.0,"Z":-683.0,"ID":5,"Active":true},"Three":{"X":35.0,"Y":-24.0,"Z":-668.0,"ID":6,"Active":true},"Four":{"X":20.0,"Y":-24.0,"Z":-683.0,"ID":7,"Active":true}}
+{"Name":"Memoria Misera / Varis Ex","MapID":725,"A":{"X":24.0,"Y":-24.0,"Z":-694.0,"ID":0,"Active":true},"B":{"X":46.0,"Y":-24.0,"Z":-694.0,"ID":1,"Active":true},"C":{"X":46.0,"Y":-24.0,"Z":-672.0,"ID":2,"Active":true},"D":{"X":24.0,"Y":-24.0,"Z":-672.0,"ID":3,"Active":true},"One":{"X":35.0,"Y":-24.0,"Z":-698.0,"ID":4,"Active":true},"Two":{"X":50.0,"Y":-24.0,"Z":-683.0,"ID":5,"Active":true},"Three":{"X":35.0,"Y":-24.0,"Z":-668.0,"ID":6,"Active":true},"Four":{"X":20.0,"Y":-24.0,"Z":-683.0,"ID":7,"Active":true}}
 ```
 
-### Warrior of Light / Seat of Sacrifice
+### The Seat of Sacrifice / Warrior of Light
 #### Macro
 ```
 ┏━━ Spread ━━┓┏━ LB1 ━┓┏━  BLM  ━━┓
@@ -224,11 +258,23 @@ TANK ADDS at NE/NW to grab tethers, healers grab S tethers
 
 #### Waymarks
 ```json
-{"Name":"WoL / Seat of Sacrifice Ex","MapID":739,"A":{"X":82.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":82.0,"ID":1,"Active":true},"C":{"X":118.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":118.0,"ID":3,"Active":true},"One":{"X":90.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":110.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+{"Name":"The Seat of Sacrifice / Warrior of Light Ex","MapID":739,"A":{"X":82.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":82.0,"ID":1,"Active":true},"C":{"X":118.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":118.0,"ID":3,"Active":true},"One":{"X":90.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":110.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+```
+
+### Castrum Marinum
+#### Waymarks
+```json
+{"Name":"Castrum Marinum Ex","MapID":763,"A":{"X":100.0,"Y":0.0,"Z":75.0,"ID":0,"Active":true},"B":{"X":125.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":125.0,"ID":2,"Active":true},"D":{"X":75.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":95.0,"Y":0.0,"Z":95.0,"ID":4,"Active":true},"Two":{"X":105.0,"Y":0.0,"Z":95.0,"ID":5,"Active":true},"Three":{"X":105.0,"Y":0.0,"Z":105.0,"ID":6,"Active":true},"Four":{"X":95.0,"Y":0.0,"Z":105.0,"ID":7,"Active":true}}
+```
+
+### The Cloud Deck
+#### Waymarks
+```json
+{"Name":"The Cloud Deck Ex","MapID":782,"A":{"X":80.0,"Y":0.0,"Z":99.0,"ID":0,"Active":true},"B":{"X":120.0,"Y":0.0,"Z":99.0,"ID":1,"Active":true},"C":{"X":80.0,"Y":0.0,"Z":101.0,"ID":2,"Active":true},"D":{"X":120.0,"Y":0.0,"Z":101.0,"ID":3,"Active":true},"One":{"X":89.0,"Y":0.0,"Z":81.0,"ID":4,"Active":true},"Two":{"X":111.0,"Y":0.0,"Z":81.0,"ID":5,"Active":true},"Three":{"X":89.0,"Y":0.0,"Z":119.0,"ID":6,"Active":true},"Four":{"X":111.0,"Y":0.0,"Z":119.0,"ID":7,"Active":true}}
 ```
 
 ## Shadowbringers Savages
-### E9S - Umbra
+### E09S - Umbra
 #### Macro
 ```
 ┏━━ Spread ━━┓┏━━ Flower ━━┓
@@ -353,8 +399,18 @@ Additional macro
 ![Image of E12S macro ingame](E12S.png)
 
 #### Waymarks
+##### Cross lions
 ```json
 {"Name":"E12S Eternity Cross Lions","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-87.0,"ID":0,"Active":true},"B":{"X":12.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-63.0,"ID":2,"Active":true},"D":{"X":-12.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":9.0,"Y":75.0,"Z":-82.0,"ID":4,"Active":true},"Two":{"X":9.0,"Y":75.0,"Z":-68.0,"ID":5,"Active":true},"Three":{"X":-9.0,"Y":75.0,"Z":-68.0,"ID":6,"Active":true},"Four":{"X":-9.0,"Y":75.0,"Z":-82.0,"ID":7,"Active":true}}
+```
+
+##### Cross lions #2
+```json
+{"Name":"E12S Eternity Cross Lions 2","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-86.0,"ID":0,"Active":true},"B":{"X":11.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-64.0,"ID":2,"Active":true},"D":{"X":-11.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":8.5,"Y":75.0,"Z":-82.0,"ID":4,"Active":true},"Two":{"X":8.5,"Y":75.0,"Z":-68.0,"ID":5,"Active":true},"Three":{"X":-8.5,"Y":75.0,"Z":-68.0,"ID":6,"Active":true},"Four":{"X":-8.5,"Y":75.0,"Z":-82.0,"ID":7,"Active":true}}
+```
+
+##### Part 2
+```json
 {"Name":"E12S Eternity Phase 2","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-87.0,"ID":0,"Active":true},"B":{"X":12.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-63.0,"ID":2,"Active":true},"D":{"X":-12.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":8.0,"Y":75.0,"Z":-83.0,"ID":4,"Active":true},"Two":{"X":8.0,"Y":75.0,"Z":-67.0,"ID":5,"Active":true},"Three":{"X":-8.0,"Y":75.0,"Z":-67.0,"ID":6,"Active":true},"Four":{"X":-8.0,"Y":75.0,"Z":-83.0,"ID":7,"Active":true}}
 ```
 
@@ -380,3 +436,50 @@ I have no source of this, it has been in several Discord channels.
 * [Intermediate Relativity diagram](https://ff14.toolboxgaming.space/?id=576226053208061&preview=1)
 * [MTQcapture part 2 video guide](https://www.youtube.com/watch?v=6WpBFqpeegY)
 * [E12S prog guide](https://docs.google.com/presentation/d/1wOFj_r8wLDrGeylARR2Hikt6a3-0v5x0a-xl8133gUk/edit)
+
+## Stormblood Extremes
+### The Minstrel's Ballad: Tsukuyomi's Pain / Tsukuyomi Ex
+#### Waymarks
+```json
+{"Name":"The Minstrel's Ballad: Tsukuyomi's Pain / Tsukuyomi Ex","MapID":538,"A":{"X":100.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":82.0,"Y":0.0,"Z":100.0,"ID":2,"Active":true},"D":{"X":100.0,"Y":0.0,"Z":118.0,"ID":3,"Active":true},"One":{"X":0.0,"Y":0.0,"Z":0.0,"ID":4,"Active":false},"Two":{"X":0.0,"Y":0.0,"Z":0.0,"ID":5,"Active":false},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+```
+
+### Hells' Kier / Suzaku Ex
+#### Waymarks
+```json
+{"Name":"Hells' Kier / Suzaku Ex","MapID":597,"A":{"X":100.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":0.0,"Y":0.0,"Z":0.0,"ID":4,"Active":false},"Two":{"X":0.0,"Y":0.0,"Z":0.0,"ID":5,"Active":false},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+```
+
+## Stormblood Savages
+### O12S - Alphascape V4
+#### Waymarks
+```json
+{"Name":"O12S Alphascape V4","MapID":594,"A":{"X":100.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":0.0,"Y":0.0,"Z":0.0,"ID":4,"Active":false},"Two":{"X":0.0,"Y":0.0,"Z":0.0,"ID":5,"Active":false},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+```
+
+## Heavensward Savages
+### A12S - The Soul of the Creator
+#### Waymarks
+```json
+{"Name":"A12S The Soul of the Creator","MapID":193,"A":{"X":-25.0,"Y":400.0,"Z":0.0,"ID":0,"Active":true},"B":{"X":0.0,"Y":400.0,"Z":-25.0,"ID":1,"Active":true},"C":{"X":25.0,"Y":400.0,"Z":0.0,"ID":2,"Active":true},"D":{"X":0.0,"Y":400.0,"Z":25.0,"ID":3,"Active":true},"One":{"X":0.0,"Y":0.0,"Z":0.0,"ID":4,"Active":false},"Two":{"X":0.0,"Y":0.0,"Z":0.0,"ID":5,"Active":false},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+```
+
+## A Realm Reborn Extremes
+### The Navel / Titan
+#### Waymarks
+```json
+{"Name":"The Navel / Titan Ex","MapID":64,"A":{"X":0.0,"Y":0.0,"Z":-5.0,"ID":0,"Active":true},"B":{"X":6.0,"Y":0.0,"Z":9.0,"ID":1,"Active":true},"C":{"X":-6.0,"Y":0.0,"Z":9.0,"ID":2,"Active":true},"D":{"X":0.0,"Y":0.0,"Z":0.0,"ID":3,"Active":false},"One":{"X":0.0,"Y":0.0,"Z":0.0,"ID":4,"Active":false},"Two":{"X":0.0,"Y":0.0,"Z":0.0,"ID":5,"Active":false},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+```
+
+### The Akh Afah Amphitheatre / Shiva
+#### Waymarks
+```json
+{"Name":"The Akh Afah Amphitheatre / Shiva Ex","MapID":80,"A":{"X":0.0,"Y":0.0,"Z":-20.0,"ID":0,"Active":true},"B":{"X":20.0,"Y":0.0,"Z":0.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":0.0,"Z":20.0,"ID":2,"Active":true},"D":{"X":-20.0,"Y":0.0,"Z":0.0,"ID":3,"Active":true},"One":{"X":14.0,"Y":0.0,"Z":-14.0,"ID":4,"Active":true},"Two":{"X":14.0,"Y":0.0,"Z":14.0,"ID":5,"Active":true},"Three":{"X":-14.0,"Y":0.0,"Z":14.0,"ID":6,"Active":true},"Four":{"X":-14.0,"Y":0.0,"Z":-14.0,"ID":7,"Active":true}}
+```
+
+## Unreals
+### The Akh Afah Amphitheatre / Shiva Unreal
+#### Waymarks
+```json
+{"Name":"The Akh Afah Amphitheatre / Shiva Unreal","MapID":744,"A":{"X":0.0,"Y":0.0,"Z":-20.0,"ID":0,"Active":true},"B":{"X":20.0,"Y":0.0,"Z":0.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":0.0,"Z":20.0,"ID":2,"Active":true},"D":{"X":-20.0,"Y":0.0,"Z":0.0,"ID":3,"Active":true},"One":{"X":14.0,"Y":0.0,"Z":-14.0,"ID":4,"Active":true},"Two":{"X":14.0,"Y":0.0,"Z":14.0,"ID":5,"Active":true},"Three":{"X":-14.0,"Y":0.0,"Z":14.0,"ID":6,"Active":true},"Four":{"X":-14.0,"Y":0.0,"Z":-14.0,"ID":7,"Active":true}}
+```
